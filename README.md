@@ -1,5 +1,6 @@
+# Experiment no: 7
 # DL- Convolutional Autoencoder for Image Denoising
-## Experiment no: 7
+
 ## NAME : AVINASH T
 ## REG NO. : 212223230026
 ## AIM
